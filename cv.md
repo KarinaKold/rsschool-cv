@@ -1,6 +1,6 @@
- # CV
+# CV
 
-   ## KARINA KOLDAEVА
+## KARINA KOLDAEVА
    
 ### 1. Personal information 
 Adress: 14 Polonsky street, apt.39, Ryazan, 390000, Russia
@@ -8,7 +8,6 @@ Adress: 14 Polonsky street, apt.39, Ryazan, 390000, Russia
 Date of birth: 31st December 1996 
 
 E-mail: karina.mila@yandex.ru 
-
 ### 2. Objective 
 I would like to get a position of an engineer to use my skills and knowledge. I am seeking employment with a company where I can use my ability in manufacturing engineering technology or image processing programming.
 ### 3. Work experience 
@@ -38,13 +37,10 @@ Engineer of the department
 #### Code
 ```
 <p>An <a href="http://example.com">example</a>.</p>
-
 <p><img alt="Image" title="icon" src="Icon-pictures.png" /></p>
-
 <blockquote>
 <p>Markdown uses email-style characters for blockquoting.</p>
 </blockquote>
-
 <p>Inline <abbr title="Hypertext Markup Language">HTML</abbr> is supported.</p>
 ```
 ### 6. Awards 
