@@ -1,15 +1,16 @@
 # CV
 
 ## KARINA KOLDAEVА
+![alt text](images/myph.jpg)
    
 ### 1. Personal information 
-Adress: 14 Polonsky street, apt.39, Ryazan, 390000, Russia
+Adress: 14 Polonsky street, Ryazan, 390000, Russia
 
 Date of birth: 31st December 1996 
 
 E-mail: karina.mila@yandex.ru 
 ### 2. Objective 
-I would like to get a position of an engineer to use my skills and knowledge. I am seeking employment with a company where I can use my ability in manufacturing engineering technology or image processing programming.
+I would like to get a position of a developer engineer to use my skills and knowledge. I am seeking employment with a company where I can use my ability in frontend developing or image processing programming.
 ### 3. Work experience 
 * Development Department of Rcb "Globus", 2019–present
 Ryazan, Russia  
@@ -32,8 +33,9 @@ Engineer of the department
 ### 5. Special skills 
 * Native Russian 
 * **Upper-Intermediate English**
+* Upper-Intermediate Czech
 * Basic knowledge of Spanish
-* _Computer literacy_ (Microsoft Office, SQL Server, HTML, SCADA,  CAD/CAM/CAE - systems, SolidWorks, LabView, Matlab) 
+* _Computer literacy_ (Microsoft Office; SQL, HTML, CSS, JS; SCADA, CAD/CAM/CAE - systems, SolidWorks; LabView, Matlab; Python) 
 #### Code
 ```
 <p>An <a href="http://example.com">example</a>.</p>
