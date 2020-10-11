@@ -1,7 +1,7 @@
 # CV
 
 ## KARINA KOLDAEVА
-![alt text](images/myph.jpg)
+![img](images/myph.jpg)
    
 ### 1. Personal information 
 Adress: 14 Polonsky street, Ryazan, 390000, Russia
